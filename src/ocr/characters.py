@@ -13,10 +13,10 @@ from .tfhelpers import Model
 print("Loading segmentation models...")
 location = os.path.dirname(os.path.abspath(__file__))
 CNN_model = Model(
-    os.path.join(location, 'models/gap-clas/CNN-CG'))
+    os.path.join(location, '../../models/gap-clas/CNN-CG'))
 CNN_slider = (60, 30)
 RNN_model = Model(
-    os.path.join(location, 'models/gap-clas/RNN/Bi-RNN-new'),
+    os.path.join(location, '../../models/gap-clas/RNN/Bi-RNN-new'),
     'prediction')
 RNN_slider = (60, 60)
 
