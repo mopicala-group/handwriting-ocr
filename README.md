@@ -1,7 +1,7 @@
 # Handwriting OCR
 The project tries to create software for recognition of a handwritten text from photos (also for Czech language). It uses computer vision and machine learning. And it experiments with different approaches to the problem. It started as a school project which I got a chance to present on Intel ISEF 2018.
 
-#Edit ocr https://gist.github.com/mohammed-Emad/136d5f20ed14c1ce6fa0045cc8e3c3d6
+#Edit OCR Notebook https://gist.github.com/mohammed-Emad/136d5f20ed14c1ce6fa0045cc8e3c3d6
 <p align="center"><img src ="doc/imgs/poster.png?raw=true" height="340" alt="Sublime's custom image" /></p>
 
 ## Program Structure
